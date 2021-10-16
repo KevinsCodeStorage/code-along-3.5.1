@@ -11,9 +11,8 @@
   transform: translate(-50%, -50%);
   color: white;
 }
-
-nav {
-  display: none;
+nav{
+  position: relative;
 }
 
 
